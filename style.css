@@ -1,0 +1,16 @@
+.background-color{
+    background-image: url(bg1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color:crimson;
+    font-size: 30;
+    text-align: center;
+}
+#mycanvas{
+    border: 10px;
+    background-color: white;
+    border-color: blueviolet;
+    border-style: ridge;
+}
